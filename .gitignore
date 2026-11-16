@@ -1,0 +1,6 @@
+.superpowers/
+.DS_Store
+docs/
+*.pdf
+CLAUDE.md
+node_modules/
